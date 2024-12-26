@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdelrahman
 - 👀 I’m interested in learning web programing technology
 - 🌱 I’m currently learning Node.Js
-- 📫 How to reach me obadeljzzar@gmail.com
+- 📫 You can reach me obadeljzzar@gmail.com
 
 
 <!---
