@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdelrahman
 - 👀 I’m interested in learning web programing technology
-- 🌱 I’m currently working with Node.Js
+- 🌱 I’m currently working as a Node.js developer
 - 📫 You can reach me obadeljzzar@gmail.com
 
 
